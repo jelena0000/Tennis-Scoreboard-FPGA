@@ -1,10 +1,10 @@
-# 🏆 Tennis-Scoreboard-FPGA
+#  Tennis-Scoreboard-FPGA
 
 Teniski semafor realizovan na FPGA (Nexys A7) korišćenjem VHDL-a, sa kompletnom logikom igre uključujući deuce, tie-break, undo i kontrolu meča.
 
 ---
 
-## 📌 Opis
+##  Opis
 
 Ovaj projekat implementira digitalni sistem za praćenje teniskog meča na FPGA ploči. Sistem omogućava prikaz:
 
@@ -17,7 +17,7 @@ na 7-segmentnom displeju.
 
 ---
 
-## ⚙️ Tehnologije
+##  Tehnologije
 
 - VHDL  
 - AMD Vivado Design Suite  
@@ -25,7 +25,7 @@ na 7-segmentnom displeju.
 
 ---
 
-## 🎮 Kontrole
+##  Kontrole
 
 | Dugme | Funkcija |
 |------|--------|
@@ -37,7 +37,7 @@ na 7-segmentnom displeju.
 
 ---
 
-## 🚀 Pokretanje
+##  Pokretanje
 
 1. Otvoriti projekat u Vivado  
 2. Postaviti `TennisTop` kao top modul  
@@ -49,12 +49,12 @@ na 7-segmentnom displeju.
 
 ---
 
-## 📖 Dokumentacija
+##  Dokumentacija
 
 👉 Detaljno objašnjenje projekta dostupno je u Wiki sekciji ovog repozitorijuma.
 
 ---
 
-## 📌 Napomena
+##  Napomena
 
 Projekat implementira realna pravila tenisa uključujući deuce, advantage, tie-break i završetak meča nakon 3 seta.
