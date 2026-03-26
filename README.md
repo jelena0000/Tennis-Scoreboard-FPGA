@@ -51,7 +51,7 @@ na 7-segmentnom displeju.
 
 ##  Dokumentacija
 
-👉 Detaljno objašnjenje projekta dostupno je u Wiki sekciji ovog repozitorijuma.
+ Detaljno objašnjenje projekta dostupno je u Wiki sekciji ovog repozitorijuma.
 
 ---
 
